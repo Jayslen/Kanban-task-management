@@ -3,4 +3,4 @@
 	url = https://github.com/Jayslen/Kanban-task-management-frontend.git
 [submodule "backend"]
 	path = backend
-	url = https://github.com/Jayslen/Kanban-task-management-backend
+	url = https://github.com/Jayslen/Kanban-task-management-backend.git
