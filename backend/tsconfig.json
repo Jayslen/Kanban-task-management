@@ -1,0 +1,13 @@
+{
+  "extends": "@tsconfig/node22/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "baseUrl": ".",
+    "noEmitOnError": true,
+    "paths": {
+      "@CustomTypes/*": ["src/types/*.d.ts"],
+    }
+     },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}

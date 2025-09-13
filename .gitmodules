@@ -2,7 +2,3 @@
 	path = frontend
 	url = https://github.com/Jayslen/Kanban-task-management-frontend.git
 	branch = master
-[submodule "backend"]
-	path = backend
-	url = https://github.com/Jayslen/Kanban-task-management-backend.git
-	branch = master
